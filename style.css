@@ -34,3 +34,15 @@ html,body{
     height: 100%;
     object-fit: cover;
 }
+#video-container #play{
+    padding:3vw 2vw;
+    background-color: black;
+    color: #fff;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+}
